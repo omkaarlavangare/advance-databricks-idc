@@ -71,3 +71,8 @@ This repository serves as:
 Daily updates will be pushed as tasks are completed.
 
 Stay tuned for continuous improvements and implementations.
+
+## Huge Thanks
+
+Thanks to @Databricks, @Codebasics, and the @IndianDataClub for this initiative.
+#DatabricksWithIDC
